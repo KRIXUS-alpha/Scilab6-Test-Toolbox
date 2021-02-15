@@ -10,7 +10,7 @@ extern "C"
 
 int test_toolbox(wchar_t* _pwstFuncName)
 {
-    if(wcscmp(_pwstFuncName, L"multiply") == 0){ addCFunction(L"multiply", &sci_multiply, MODULE_NAME); }
+    if(wcscmp(_pwstFuncName, L"trans") == 0){ addCFunction(L"trans", &sci_trans, MODULE_NAME); }
 
     return 1;
 }
