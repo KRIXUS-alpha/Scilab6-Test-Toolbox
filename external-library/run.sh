@@ -9,3 +9,5 @@ cp libtrans.so thirdparty/linux/lib/x64/
 
 cp trans.h thirdparty/Mac/include/
 cp libtrans.so thirdparty/Mac/lib/x64/
+
+cp -R thirdparty ..

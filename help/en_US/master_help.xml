@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
 <!--Begin Entities-->
-<!ENTITY a73530be5f4741ec2f0ef1ad006f61138 SYSTEM "/home/krix/Desktop/scilab_toolbox_test/Scilab6-Test-Toolbox/help/en_US/trans.xml">
+<!ENTITY a0364dd393f6f43723412389440680756 SYSTEM "/home/krixus/Desktop/Scilab6-Test-Toolbox/help/en_US/trans.xml">
 <!--End Entities-->
 ]>
 <book version="5.0-subset Scilab" xml:lang="en_US"
@@ -16,8 +16,8 @@
     <title>test_toolbox</title>
   </info>
 
-<part xml:id='section_97e3ca4b47c8ad3be94dd924a5a27c4a'>
+<part xml:id='section_e421021855fb5ea3c048dcb0c02b78c2'>
 <title>test_toolbox</title>
-&a73530be5f4741ec2f0ef1ad006f61138;
+&a0364dd393f6f43723412389440680756;
 </part>
 </book>
